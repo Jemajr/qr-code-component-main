@@ -1,0 +1,42 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 250px;
+  margin: auto auto; /* Center the QR Code Component*/
+  background-color: #fff;
+  padding: 12px; /* white edge around the card */
+  border-radius: 15px;
+  box-shadow: 0 7px 30px rgba(0, 0, 0, 0.2);
+}
+
+.qr-code {
+  border-radius: 15px;
+}
+
+.text {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+}
+
+.main-text {
+  font-weight: 700;
+  font-size: 18px; /* making the main text larger */
+  margin: 15px 15px; /* spacing around it */
+}
+
+.sub-text {
+  font-weight: 400;
+  margin-bottom: 20px;
+  font-size: 13px;
+  padding: 0 15px;
+}
