@@ -51,13 +51,11 @@ Glad to finally have a better understanding of css flexbox. This the css for the
 
 ### Continued development
 
-- I'd like to get more comfortable turning a design into code (of course with more practice)
+- I'd like to get more comfortable turning a design into code (with more practice)
 - I'd also like to get better with dimensioning for web projects
 
 ### Useful resources
 
 - [Jonas Schmedtmann's Build Responsive Real-World Websites with HTML and CSS - Lesson on shadows](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3) - This helped me with making the shadow behind the QR Code. I definitely still need more practice with this.
 
-## Author
 
-- Website - [Joshua Udo](https://github.com/Jemajr)
